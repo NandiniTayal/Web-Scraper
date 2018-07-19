@@ -1,6 +1,6 @@
 # Web-Scraper
 
-### The project basically consists of three scrapy spiders:
+### The project basically consists of both Web Crawler and Web Scraper:
 
 #### WEB CRAWLER-
 The spider can crawl any website by following the links.
@@ -11,5 +11,6 @@ As a sample I have crawled QuotestoScrape.com and stored the scraped data in htm
 The spider can scrape selected data from website and store it in desired format.
 Scraping is small-scale, specific and results in specialized dataset.
 
-In addition to a simple scraper, a Link follower Scraper is designed which can follow the link to the next webpage and scrape the required data from it.
+In addition to a simple scraper, a Link follower Scraper is designed which can follow the link to the next webpage and scrape the targeted data from it.
+
 
